@@ -52,10 +52,10 @@ body {
 }
 
 div.a {
-	line-height: normal;
+	line-height: 2;
 }
 div.b {
-	line-height: 1.6;
+	line-height: 1.8;
 }
 
 div.c {
