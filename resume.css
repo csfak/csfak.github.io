@@ -24,7 +24,7 @@ body {
 @media (min-width: 768px) {
 	.full {
 		/* two columns for tablet and up */
-		width:80%;
+		width:81%;
 		max-width: max-content;
 		min-height: max-content; 
 		background-color: #263238;
